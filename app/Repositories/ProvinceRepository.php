@@ -3,9 +3,13 @@
 namespace app\Repositories;
 use app\Repositories\Interfaces\ProvinceRepositoryInterface;
 
+/**
+ * Class ProvincsService
+ * @package App\Services
+ */
 
-class Province implements ProvinceRepositoryInterface {
-    
+class ProvinceRepository implements ProvinceRepositoryInterface {
+
 }
 
 ?>
