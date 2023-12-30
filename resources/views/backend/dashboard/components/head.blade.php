@@ -12,6 +12,6 @@
 @endif
 
     <link href="backend/css/style.css" rel="stylesheet">
-    <link href="backend/css/customiezz.css" rel="stylesheet">
+    <link href="backend/css/custom.css" rel="stylesheet">
 
     <script src="backend/js/jquery-3.1.1.min.js"></script>
